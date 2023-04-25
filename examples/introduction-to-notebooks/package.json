@@ -1,0 +1,14 @@
+{
+  "name": "@observablehq/introduction-to-notebooks",
+  "main": "5619eceafed5879d@363.js",
+  "version": "363.0.0",
+  "homepage": "https://observablehq.com/@observablehq/introduction-to-notebooks",
+  "author": {
+    "name": "Observable",
+    "url": "https://observablehq.com/@observablehq"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
